@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xigua
+=======
+diyihang22
+>>>>>>> branch2
